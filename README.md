@@ -34,5 +34,3 @@ This is a simple bank management system program that allows users to perform var
    - To quit the program, select the "Quit" option.
 
 Enjoy using the Bank Management System for basic banking operations and system management.
-
-Note: This program is a simulation and does not involve real financial transactions.
